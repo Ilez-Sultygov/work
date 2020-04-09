@@ -1,0 +1,24 @@
+body {
+  background-color: rgba(255, 255, 255, 0.315);
+}
+.text {
+  color: #000000;
+  font-size: 15px;
+  font-weight: 900;
+}
+h1 {
+  text-align: center;
+  border: solid;
+  background-color: olive;
+}
+h2 {
+  text-align: center;
+  border: solid;
+  background-color: olive;
+}
+.text-2 {
+  text-decoration: underline;
+}
+div {
+    text-align: center;
+}
